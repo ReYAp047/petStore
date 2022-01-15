@@ -233,7 +233,7 @@ section {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  background: url(src/app/image/home_bg_img.jpg) no-repeat;
+  background: url(../image/home_bg_img.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -606,7 +606,7 @@ section {
 
 .footer {
   position: relative;
-  background: url(src/app/image/footer_background.jpg) no-repeat;
+  background: url(../image/footer_background.jpg) no-repeat;
   background-position: center;
   background-size: center;
   padding-top: 10rem;
